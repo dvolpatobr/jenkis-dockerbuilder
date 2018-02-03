@@ -1,6 +1,8 @@
 #!groovy
 /*
 comment
+
+ccc
 */
 
 node {
